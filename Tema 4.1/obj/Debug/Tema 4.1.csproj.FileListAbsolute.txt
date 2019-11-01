@@ -1,0 +1,6 @@
+C:\Users\Andrei\source\repos\Hotel App\Tema 4.1\bin\Debug\Tema 4.1.exe.config
+C:\Users\Andrei\source\repos\Hotel App\Tema 4.1\bin\Debug\Tema 4.1.exe
+C:\Users\Andrei\source\repos\Hotel App\Tema 4.1\bin\Debug\Tema 4.1.pdb
+C:\Users\Andrei\source\repos\Hotel App\Tema 4.1\obj\Debug\Tema 4.1.csprojAssemblyReference.cache
+C:\Users\Andrei\source\repos\Hotel App\Tema 4.1\obj\Debug\Tema 4.1.exe
+C:\Users\Andrei\source\repos\Hotel App\Tema 4.1\obj\Debug\Tema 4.1.pdb
